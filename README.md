@@ -1,68 +1,189 @@
-<h1 align="center">Hi 👋, I'm Sahil Murti</h1>
-<h3 align="center">Flutter Developer | AI & ML Enthusiast | Data Analyst</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sahil Murti | Data Analyst Resume</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f4f6f8;
+            margin: 0;
+            padding: 0;
+            color: #222;
+        }
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            background: #ffffff;
+            padding: 35px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.08);
+        }
+        h1 {
+            margin-bottom: 5px;
+            font-size: 32px;
+            color: #0a3d62;
+        }
+        h2 {
+            border-bottom: 2px solid #0a3d62;
+            padding-bottom: 5px;
+            color: #0a3d62;
+            margin-top: 30px;
+        }
+        h3 {
+            margin-bottom: 5px;
+            font-size: 18px;
+            color: #333;
+        }
+        p {
+            margin: 6px 0;
+            line-height: 1.6;
+        }
+        ul {
+            margin: 8px 0 0 20px;
+        }
+        li {
+            margin-bottom: 6px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .sub-title {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+        .contact {
+            font-size: 14px;
+            color: #333;
+        }
+        .contact span {
+            display: inline-block;
+            margin: 0 10px;
+        }
+        .section {
+            margin-top: 20px;
+        }
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 10px;
+        }
+        .badge {
+            background: #eaf2f8;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        .footer {
+            text-align: center;
+            font-size: 13px;
+            margin-top: 30px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
 
----
+<div class="container">
+    <div class="header">
+        <h1>Sahil Murti</h1>
+        <div class="sub-title">Aspiring Data Analyst | Analytics & Visualization Enthusiast</div>
+        <div class="contact">
+            <span>📧 sahilmurti18@gmail.com</span>
+            <span>📞 7669948561</span>
+            <span>🌐 github.com/sahilmurti07</span>
+            <span>🔗 linkedin.com/in/sahil-murti-844b75330</span>
+        </div>
+    </div>
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <p>
+            Detail-oriented BCA student with a strong interest in Data Analytics and Business Intelligence.
+            Skilled in analyzing, cleaning, and visualizing data to extract meaningful insights.
+            Experienced with Python, SQL, and Power BI, and passionate about turning raw data into
+            actionable business decisions.
+        </p>
+    </div>
+    <div class="section">
+        <h2>Education</h2>
+        <h3>Bachelor of Computer Applications (BCA)</h3>
+        <p>Quantum University, Roorkee</p>
+        <p><em>2023 – 2026 (Expected)</em></p>
+    </div>
+    <div class="section">
+        <h2>Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="badge">Python (Pandas, NumPy)</div>
+            <div class="badge">Data Cleaning & EDA</div>
+            <div class="badge">SQL & SQL Server</div>
+            <div class="badge">Power BI & Dashboards</div>
+            <div class="badge">Matplotlib & Seaborn</div>
+            <div class="badge">Scikit-learn (Basics)</div>
+            <div class="badge">Regression & Forecasting</div>
+            <div class="badge">Excel (Analytics)</div>
+            <div class="badge">Git & Version Control</div>
+        </div>
+    </div>
+    <div class="section">
+        <h2>Data Analytics Projects</h2>
 
-## 🌟 About Me
-- 🎓 3rd-year BCA student at **Quantum University**  
-- 💻 Skilled in **Flutter, Dart, Python, C#, .NET, Supabase & Firebase**  
-- 🤖 Passionate about **Machine Learning, Deep Learning, AI-powered apps, and Data Visualization**  
-- 🔧 Currently building **interactive Flutter apps with BLoC state management & Supabase integration**  
-- 🌱 Exploring **advanced AI models, predictive analytics, and data-driven solutions**  
-- 👯 Open to collaborating on **open-source projects & innovative tech solutions**  
+        <h3>IPL First Innings Score Analytics</h3>
+        <ul>
+            <li>Analyzed IPL match datasets to identify first-innings scoring trends.</li>
+            <li>Evaluated venue-wise averages and performance patterns.</li>
+            <li>Created visual reports for data-driven insights.</li>
+        </ul>
 
----
+        <h3>Air Quality Index (AQI) Forecasting</h3>
+        <ul>
+            <li>Cleaned and processed multi-city air pollution datasets.</li>
+            <li>Built regression models to predict AQI values.</li>
+            <li>Compared model performance and visualized forecasts.</li>
+        </ul>
 
-## 🛠️ Tech Stack
-**Languages & Frameworks:**  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
+        <h3>Customer Spending & Retention Analysis</h3>
+        <ul>
+            <li>Segmented customers into frequent, occasional, and churn-risk categories.</li>
+            <li>Analyzed purchasing behavior to identify retention patterns.</li>
+            <li>Used SQL and Python for data extraction and analysis.</li>
+        </ul>
 
-**Backend & Databases:**  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+        <h3>Expense Analytics Dashboard</h3>
+        <ul>
+            <li>Designed an interactive dashboard showing category-wise and monthly expenses.</li>
+            <li>Provided insights to optimize spending behavior.</li>
+        </ul>
+    </div>
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=white)
+    <!-- Certifications / Learning -->
+    <div class="section">
+        <h2>Certifications & Learning</h2>
+        <ul>
+            <li>Data Analytics with Python (Self-learning & Practice Projects)</li>
+            <li>Power BI for Business Intelligence (Hands-on dashboards)</li>
+            <li>Statistics & Machine Learning Fundamentals</li>
+        </ul>
+    </div>
 
----
+    <!-- Strengths -->
+    <div class="section">
+        <h2>Key Strengths</h2>
+        <ul>
+            <li>Strong analytical and problem-solving mindset</li>
+            <li>Ability to translate data into insights</li>
+            <li>Clear communication & data storytelling</li>
+            <li>Continuous learner with real-world focus</li>
+        </ul>
+    </div>
 
-## 📊 GitHub Stats
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilmurti07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmurti07&layout=compact&theme=radical)
+    <!-- Footer -->
+    <div class="footer">
+        © 2026 Sahil Murti | Data Analyst Portfolio Resume
+    </div>
 
----
+</div>
 
-## 💡 Projects Highlights
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Expense Tracker App** | Flutter app with **BLoC & Supabase** for personal finance tracking | Flutter, BLoC, Supabase |
-| **Human Activity Recognition** | ML project detecting forest activities via videos | Python, CNN + LSTM, OpenCV |
-| **Graph Traversal App** | Windows Forms app visualizing **graph algorithms** | C#, WinForms |
-| **E-Commerce App** | Flutter e-commerce with cart & order management | Flutter, BLoC, Firebase |
-| **IPL Score Analytics** | Data visualization project analyzing IPL first inning scores | Python, Power BI, Matplotlib |
-| **Air Pollution Forecasting** | Predicted city-wise **Air Quality Index (AQI)** using ML regression models | Python, Pandas, Scikit-learn, Matplotlib |
-
----
-
-## 📈 Fun GitHub Stats
-- 🔥 Contribution Streak: ![GitHub Streak](https://streak-stats.demolab.com?user=sahilmurti07&theme=radical)  
-- 📦 Total Repos: ![Total Repos](https://img.shields.io/github/repos/sahilmurti07?style=flat&logo=github)  
-- 👀 Visitors: ![Profile Views](https://komarev.com/ghpvc/?username=sahilmurti07&style=flat-square)  
-
----
-
-## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-murti-844b75330)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahilmurti07)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sahilmurti18@gmail.com)
-
----
-
-> “Strive to build projects that not only work but also inspire. 🚀”
+</body>
+</html>
