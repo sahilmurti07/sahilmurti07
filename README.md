@@ -1,60 +1,123 @@
-# Sahil Murti
-**Location:** Saharanpur, India · **Email:** sahilmurti18@gmail.com �� **GitHub:** https://github.com/sahilmurti07 · **LinkedIn:** https://www.linkedin.com/in/sahilmurti07/
+# 👋 Hi, I'm Sahil Murti  
+
+🎓 **BCA Student | Data Analytics & Business Intelligence Enthusiast**  
+📍 Saharanpur, India  
+
+I am a data-focused analyst passionate about transforming raw datasets into **actionable business insights**. My experience spans **customer analytics, sales analysis, crisis impact assessment, and dashboard development**, with a strong emphasis on **Power BI, SQL, and Excel**.
+
+I enjoy working on **real-world business problems** where data supports strategic decision-making and recovery planning. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## Summary
-Data-focused Software Engineer & Data Analyst skilled at turning real-world datasets into actionable insights. Experienced in end-to-end analysis pipelines, time-series forecasting, and accelerating numerical simulations using Python, C/C++, and Cython. Strong at exploratory data analysis, reproducible reporting (Jupyter), and communicating results to technical and non-technical stakeholders.
+## 🚀 What I Do
+
+- 📊 Analyze business and consumer data to uncover trends & risks  
+- 📈 Build interactive **Power BI dashboards** for stakeholders  
+- 🧠 Perform **customer segmentation, loyalty & churn analysis**  
+- 🔍 Identify operational gaps using KPIs  
+- 📝 Translate analysis into **clear, executive-ready insights**  
 
 ---
 
-## Core Skills
-- Languages & tools: Python, C++, C, Cython, Fortran, Jupyter Notebooks, Git  
-- Data & ML: pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn  
-- Techniques: EDA, time-series forecasting, feature engineering, model validation, numerical simulation, performance optimization  
-- Practices: Reproducible notebooks, code modularity, documentation, version control
+## 🛠️ Skills & Tools
+
+### 🔹 Data Analytics & BI
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- KPI Design & Performance Tracking  
+- Customer Segmentation & Retention Analysis  
+- Trend & Revenue Analysis  
+
+### 🔹 Tools & Technologies
+- **Power BI** (DAX, Data Modeling, Dashboards)
+- **SQL / MySQL** (Joins, Aggregations, Queries)
+- **Excel** (Pivot Tables, Advanced Formulas)
+- **Python (Basics)** for analysis
+- **Git & GitHub**
 
 ---
 
-## Selected Projects
+## 📂 Data Analytics Projects
 
-Air_Pollution_Model_Project — https://github.com/sahilmurti07/Air_Pollution_Model_Project  
-Role: Lead developer / numerical modeler · Tech: Python, C++, Cython, Fortran, NumPy, Jupyter  
-- Built an end-to-end pollutant dispersion simulation pipeline combining Python orchestration with C++/Cython performance kernels.  
-- Integrated numerical methods and Fortran modules for core atmospheric calculations; optimized compute-heavy routines to reduce simulation runtime.  
-- Packaged reproducible Jupyter notebooks with visual diagnostics and validation steps used for model tuning and comparison to observations.
+### 📌 Crisis Impact & Strategic Recovery Analysis – QuickBite Express
+**Power BI | Business Strategy | Customer Analytics**
 
-DataAnalysisPortfolio — https://github.com/sahilmurti07/DataAnalysisPortfolio  
-Role: Portfolio author / Data analyst · Tech: Python, Jupyter, pandas, matplotlib, seaborn  
-- Curated multiple reproducible notebooks showcasing data cleaning, exploratory analysis, visualization, and model experiments.  
-- Emphasized clear storytelling and documented assumptions to make analyses review-ready for technical interviews and stakeholders.
+- Analyzed a **major food-delivery crisis (Jun–Sep 2025)**
+- Identified an **81% decline in orders** (244K → 46K)
+- Estimated **₹68.10M revenue loss**
+- Performed:
+  - Pre-crisis vs crisis comparison
+  - Customer loyalty & churn analysis
+  - City & restaurant-level impact analysis
+  - Sentiment analysis from customer reviews
+- Built an **executive recovery dashboard** and **professional PDF report**
+- Identified **87K recoverable customers** and **2,134 loyal customers lost**
 
-Pizza-Sales-Analysis — https://github.com/sahilmurti07/Pizza-Sales-Analysis  
-Role: Data analyst / forecaster · Tech: Jupyter Notebook, pandas, statsmodels, matplotlib, seaborn  
-- Performed EDA on sales data to identify seasonality and key demand drivers; engineered time-based and holiday features.  
-- Built and validated baseline time-series forecasting models (ARIMA/ETS/benchmarks) and documented model selection and evaluation in notebooks.
-
-Dominos-Pizza-Analysis — https://github.com/sahilmurti07/Dominos-Pizza-Analysis  
-Role: Analyst / insights lead · Tech: Python, Jupyter, pandas, visualization libs  
-- Analyzed transactional and temporal trends to identify high-potential locations and time windows; produced segmentation insights.  
-- Created visual dashboards and actionable recommendations for promotions and staff/resource allocation.
+📊 *This project focuses on crisis recovery, trust rebuilding, and operational strategy.*
 
 ---
 
-## Education
-BCA, Quantum University, Roorkee — 2023–2026 (in progress)
+### 📌 Domino’s Pizza Sales Analysis
+**SQL | Excel | Power BI**
+
+- Analyzed pizza sales data to identify:
+  - Category-wise performance
+  - Revenue trends
+  - High-performing products
+- Used **MySQL queries** for data extraction and transformation
+- Built **Excel summaries and Power BI dashboards** to present insights clearly
 
 ---
 
-## Availability
-Open to: Data Analyst(remote or hybrid)
+### 📌 Gaming Console Sales Analysis
+**SQL | Excel | Power BI**
+
+- Analyzed global console sales data to uncover:
+  - Market trends
+  - Regional demand patterns
+  - Top-performing products
+- Cleaned and transformed data using **SQL & Excel**
+- Visualized insights through **Power BI dashboards**
 
 ---
 
-## Notes / Sources
-Resume drafted from content and language composition you provided for:
-- sahilmurti07/Air_Pollution_Model_Project (repo ID: 1073026694)  
-- sahilmurti07/Dominos-Pizza-Analysis (repo ID: 1128453561)  
-- sahilmurti07/Pizza-Sales-Analysis (repo ID: 1126122493)  
-- sahilmurti07/DataAnalysisPortfolio (repo ID: 1131751205)
+### 📌 Customer Loyalty & Retention Analysis
+**Business Intelligence | Power BI**
+
+- Defined loyal customers using **order frequency**
+- Measured loyalty loss during crisis periods
+- Segmented customers into **Active, Recoverable, and Lost**
+- Built KPIs to support **win-back and retention strategies**
+
+---
+
+### 📌 IPL First Innings Score Analysis
+**Research | Data Visualization**
+
+- Analyzed first-innings score trends in IPL matches
+- Used statistical summaries and visualizations
+- Created insights for academic research and data storytelling
+
+---
+
+## 🎯 Career Focus
+
+I am actively preparing for roles such as:
+- **Data Analyst**
+- **Business Analyst**
+- **Business Intelligence Analyst**
+
+with a long-term goal of working in **data-driven strategy and decision-making teams**.
+
+---
+
+## 📬 Let’s Connect
+
+- 💼 GitHub: *You are here* 😊  
+- 🔗 LinkedIn: https://linkedin.com/in/sahil-murti-844b75330  
+- 📧 Email: sahilmurti18@gmail.com  
+
+---
+
+⭐ *“Turning data into insights, and insights into business impact.”*
 
