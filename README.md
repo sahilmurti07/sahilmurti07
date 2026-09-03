@@ -26,7 +26,7 @@ BCA candidate with hands-on experience in **SQL, Python, Power BI, and Microsoft
 
 ## 📊 Key Projects
 
-### 1. [Tamil Nadu Assembly Election Analytics — 2021 vs 2026](https://github.com/sahilmurti07/Tamil-Nadu-Assembly-Election-Analytics-2021-vs-2026)
+### 1. [Tamil Nadu Assembly Election Analytics — 2021 vs 2026](https://github.com/sahilmurti07/tamil-nadu-election-analytics-2021-2026)
 **Tech Stack:** Microsoft Fabric | SQL | PySpark | Power BI
 
 **Key Findings:**
