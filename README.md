@@ -9,7 +9,7 @@
 
 ## 💼 About Me
 
-BCA candidate with hands-on experience in **SQL, Python, Power BI, and Microsoft Fabric** for business-focused data analysis. Skilled in Statistics, Data Wrangling, ETL/ELT, EDA, KPI Analysis, Data Validation, and Business Insight Generation. Strong ability to convert analytical findings into clear, data-driven recommendations.
+BCA candidate with hands-on experience in **SQL, Python, Power BI, and Microsoft Fabric** for business-focused data analysis. Skilled in Statistics, Data Wrangling, ETL/ELT, EDA, KPI Analysis, Data Visualization, and Business Intelligence. Passionate about transforming complex datasets into actionable insights for strategic decision-making.
 
 ---
 
@@ -26,7 +26,7 @@ BCA candidate with hands-on experience in **SQL, Python, Power BI, and Microsoft
 
 ## 📊 Key Projects
 
-### 1. Tamil Nadu Assembly Election Analytics — 2021 vs 2026
+### 1. [Tamil Nadu Assembly Election Analytics — 2021 vs 2026](https://github.com/sahilmurti07/Tamil-Nadu-Assembly-Election-Analytics-2021-vs-2026)
 **Tech Stack:** Microsoft Fabric | SQL | PySpark | Power BI
 
 **Key Findings:**
@@ -38,7 +38,7 @@ BCA candidate with hands-on experience in **SQL, Python, Power BI, and Microsoft
 
 ---
 
-### 2. E-Commerce Sales & Profitability Command Center
+### 2. [E-Commerce Sales & Profitability Command Center](https://github.com/sahilmurti07/E-Commerce-Sales-Profitability-Command-Center)
 **Tech Stack:** SQL | Python | Pandas | Streamlit
 
 **Key Findings:**
