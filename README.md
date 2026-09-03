@@ -38,7 +38,7 @@ BCA candidate with hands-on experience in **SQL, Python, Power BI, and Microsoft
 
 ---
 
-### 2. [E-Commerce Sales & Profitability Command Center](https://github.com/sahilmurti07/E-Commerce-Sales-Profitability-Command-Center)
+### 2. [E-Commerce Sales & Profitability Command Center](https://github.com/sahilmurti07/ecommerce-sales-profitability-analysis)
 **Tech Stack:** SQL | Python | Pandas | Streamlit
 
 **Key Findings:**
